@@ -1,0 +1,9 @@
+Estudiante={
+    "nombre": "Brayan",
+     "edad": "18",
+     "grado": "11",
+     "ciudad": "Neiva"
+ }
+Estudiante["ciudad"]= "Neiva"
+print(Estudiante["edad"])
+print(Estudiante)
