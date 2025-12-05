@@ -7,7 +7,7 @@ def saludar(self):
     print(f"hola, soy {self.nombre} y tengo {self. edad} años.")
     
 persona1 = Persona("laura",20)
-peesona2 = Persona("andres",25)
+persona2 = Persona("andres",25)
 
 persona1.saludar()
-peesona2.saludar()
+persona2.saludar()
